@@ -9,4 +9,4 @@ Eventhough I wanted to start with Rust book, it is bit overwhelming for me, as t
 Thanks to @bedroombuilds for such amazing work to make this as an apples to apples comparison. 
 
 #### Next?
-Will move to the obvious learning material, creating a project.
+Will move to the obvious learning material, creating a project. Maybe a scraper in rust? 
